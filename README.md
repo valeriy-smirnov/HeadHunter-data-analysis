@@ -21,7 +21,7 @@ Python Pandas Plotly Jupyter
  **Ссылка для скачивания: ** [Yandex Disk](https://disk.yandex.ru/d/70kVTwvtyDj2jA
 https://disk.yandex.ru/d/uLRUk5F3VHEQ3Q)
 
-##Используемые пакеты и версии
+## Используемые пакеты и версии
 
 *   **Язык программирования: ** Python 3.8+
 *   **Библиотеки:**
